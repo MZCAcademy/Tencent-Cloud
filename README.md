@@ -1,2 +1,4 @@
 # Tencent-Cloud
-Tencent Cloud Project
+### Tencent Cloud One Day Seminar
+
+- Lab1. Cloud Virtual Machine Fundamentals
